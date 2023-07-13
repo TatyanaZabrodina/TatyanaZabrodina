@@ -49,6 +49,7 @@ What needed to be done:
 - 3.Perform testing
 - 4.Write a test report
 
-### Project link: https://bug-report-qa.atlassian.net/wiki/spaces/~639d4babf134138b5a51d98a/pages/1998849/1+2
+### [Project link](https://bug-report-qa.atlassian.net/wiki/spaces/~639d4babf134138b5a51d98a/pages/1998849/1+2).
+
 Login:tatyanka_zabrodina@inbox.ru
 Password: 1998Nfyz14
