@@ -40,3 +40,15 @@ Postman, qase.io, Swagger, Trello, SoapUI, Chrome DevTools, Mockoon, Miro
 ---
 
 ### :writing_hand: Projects :
+Project 1: Skyeng Teacher Web App Test  
+
+What needed to be done:
+---
+- 1.make a test plan
+- 2.prepare test documentation
+- 3.Perform testing
+- 4.Write a test report
+
+### Project link: https://bug-report-qa.atlassian.net/wiki/spaces/~639d4babf134138b5a51d98a/pages/1998849/1+2
+Login:tatyanka_zabrodina@inbox.ru
+Password: 1998Nfyz14
