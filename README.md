@@ -104,14 +104,26 @@ Applicable types of testing:
   <img src="https://github.com/TatyanaZabrodina/TatyanaZabrodina/assets/139307581/d649dd49-6f20-4d0c-98dd-09ade413c22e" width="700" height="300"/>
   </div> 
 
-During testing, all test cases were successful, all had a positive code 200
+</h1>
+<div align="center">
+  <img src="https://github.com/TatyanaZabrodina/TatyanaZabrodina/assets/139307581/4127aadc-cf79-4e4f-904c-c8f4bfa55f02" width="700" height="300"/>
+  </div> 
 
+  </h1>
+<div align="center">
+  <img src="https://github.com/TatyanaZabrodina/TatyanaZabrodina/assets/139307581/86d9ec61-4596-4bf3-956a-518218028708" width="700" height="300"/>
+  </div> 
 
+   </h1>
+<div align="center">
+  <img src="https://github.com/TatyanaZabrodina/TatyanaZabrodina/assets/139307581/7281afdd-d649-43bb-89f0-00d0ef889f36" width="700" height="300"/>
+  </div>
 
+   </h1>
+<div align="center">
+  <img src="https://github.com/TatyanaZabrodina/TatyanaZabrodina/assets/139307581/8502f215-186b-4bcf-b784-145cde1efb86" width="700" height="300"/>
+  </div>
 
-
-
-
- 
-
+  ---
+  ### Recommendations: Fix Bug with severity S2, S3. The new “personal events” functionality is ready for release.
 
