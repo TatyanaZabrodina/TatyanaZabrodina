@@ -71,24 +71,39 @@ Applicable types of testing:
 
 ### Report on testing the results of the project
 
+### API Testing
 
+</h1>
+<div align="center">
+  <img src="https://github.com/TatyanaZabrodina/TatyanaZabrodina/assets/139307581/634dc31b-3654-4d7b-8ca3-5285564ecc02" width="700" height="300"/>
+  </div>
+
+</h1>
+<div align="center">
+  <img src="https://github.com/TatyanaZabrodina/TatyanaZabrodina/assets/139307581/4ab34eff-9061-4f4e-a730-6762ebd53496" width="700" height="100"/>
+  </div>
+
+### Wound test. Acceptance Test Cases
+ 
 </h1>
 <div align="center">
   <img src="https://github.com/TatyanaZabrodina/TatyanaZabrodina/assets/139307581/1e448dcc-9744-4ed7-a941-65fab2f3938c" width="700" height="300"/>
   </div>
 
+### Test-run by smoke test
 
 </h1>
 <div align="center">
   <img src="https://github.com/TatyanaZabrodina/TatyanaZabrodina/assets/139307581/a3440b22-abf2-4c43-902c-3b88e8da77a7" width="700" height="300"/>
   </div> 
 
-
+### Regression testing
 </h1>
 <div align="center">
   <img src="https://github.com/TatyanaZabrodina/TatyanaZabrodina/assets/139307581/5a9e09e5-f642-421b-9949-d5b8d3ba72ce" width="700" height="300"/>
   </div> 
 
+### Functional testing
 </h1>
 <div align="center">
   <img src="https://github.com/TatyanaZabrodina/TatyanaZabrodina/assets/139307581/f86c0e33-375d-4f4f-91cf-4e0996371710" width="700" height="300"/>
@@ -104,6 +119,7 @@ Applicable types of testing:
   <img src="https://github.com/TatyanaZabrodina/TatyanaZabrodina/assets/139307581/d649dd49-6f20-4d0c-98dd-09ade413c22e" width="700" height="300"/>
   </div> 
 
+### Bug tracking system
 </h1>
 <div align="center">
   <img src="https://github.com/TatyanaZabrodina/TatyanaZabrodina/assets/139307581/4127aadc-cf79-4e4f-904c-c8f4bfa55f02" width="700" height="300"/>
