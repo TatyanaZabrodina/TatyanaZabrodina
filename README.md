@@ -55,8 +55,8 @@ What needed to be done:
 
 | Rank | Steps |
 |-----:|-----------|
-|     1| make a test plan  |
-|     2| prepare test documentation   |
+|     1| Make a test plan  |
+|     2| Prepare test documentation   |
 |     3| Perform testing |
 |     4| Write a test report  |
 
@@ -69,10 +69,49 @@ Applicable types of testing:
 ⚡	*Acceptance testing*
 ⚡	*API Testing*
 
-### [Project link](https://bug-report-qa.atlassian.net/wiki/spaces/~639d4babf134138b5a51d98a/pages/1998849/1+2).
+### Report on testing the results of the project
 
-Login:tatyanka_zabrodina@inbox.ru
-Password: 1998Nfyz14
----
-### Contact Information
-email:tatyanka_zabrodina@inbox.ru  :left_speech_bubble:
+
+</h1>
+<div align="center">
+  <img src="https://github.com/TatyanaZabrodina/TatyanaZabrodina/assets/139307581/1e448dcc-9744-4ed7-a941-65fab2f3938c" width="700" height="300"/>
+  </div>
+
+
+</h1>
+<div align="center">
+  <img src="https://github.com/TatyanaZabrodina/TatyanaZabrodina/assets/139307581/a3440b22-abf2-4c43-902c-3b88e8da77a7" width="700" height="300"/>
+  </div> 
+
+
+</h1>
+<div align="center">
+  <img src="https://github.com/TatyanaZabrodina/TatyanaZabrodina/assets/139307581/5a9e09e5-f642-421b-9949-d5b8d3ba72ce" width="700" height="300"/>
+  </div> 
+
+</h1>
+<div align="center">
+  <img src="https://github.com/TatyanaZabrodina/TatyanaZabrodina/assets/139307581/f86c0e33-375d-4f4f-91cf-4e0996371710" width="700" height="300"/>
+  </div> 
+
+</h1>
+<div align="center">
+  <img src="https://github.com/TatyanaZabrodina/TatyanaZabrodina/assets/139307581/c7da1e21-30df-475c-8f65-7dd33486bc24" width="700" height="300"/>
+  </div> 
+
+</h1>
+<div align="center">
+  <img src="https://github.com/TatyanaZabrodina/TatyanaZabrodina/assets/139307581/d649dd49-6f20-4d0c-98dd-09ade413c22e" width="700" height="300"/>
+  </div> 
+
+During testing, all test cases were successful, all had a positive code 200
+
+
+
+
+
+
+
+ 
+
+
